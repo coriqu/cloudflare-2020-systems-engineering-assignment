@@ -38,41 +38,41 @@ $ ./hello --help
 
 1. My site links
 
-   ![](/../coriq-links-10.png)
+   ![](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-links-10.png)
 
-   ![](/../coriq-links-100.png)
+   ![](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-links-100.png)
 
-   ![coriq-links-1000](/../coriq-links-1000.png)
+   ![coriq-links-1000](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-links-1000.png)
 
 2. My site
 
-   ![](/../coriq-1000.png)
+   ![](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-1000.png)
 
-   ![coriq-10000](/../coriq-10000.png)
+   ![coriq-10000](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-10000.png)
 
 3. Cloudflare
 
-   ![](/../cloudflare-10.png)
+   ![](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/cloudflare-10.png)
 
-   ![cloudflare-100](/../cloudflare-100.png)
+   ![cloudflare-100](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/cloudflare-100.png)
 
-   ![cloudflare-1000](/../cloudflare-1000.png)
+   ![cloudflare-1000](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/cloudflare-1000.png)
 
 4. Google
 
-   ![](/../google-10.png)
+   ![](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/google-10.png)
 
-   ![google-100](/../google-100.png)
+   ![google-100](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/google-100.png)
 
-   ![google-1000](/../google-1000.png)
+   ![google-1000](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/google-1000.png)
 
 5. Instagram
 
-   ![](/../instagram-10.png)
+   ![](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/instagram-10.png)
 
-   ![instagram-100](/../instagram-100.png)
+   ![instagram-100](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/instagram-100.png)
 
-   ![instagram-1000](/../instagram-1000.png)
+   ![instagram-1000](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/instagram-1000.png)
 
 ## Findings
 
