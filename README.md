@@ -1,7 +1,3 @@
----
-typora-root-url: ./screenshot/coriq-links-10.png
----
-
 # Systems Assignment
 
 ## Introduction
@@ -38,41 +34,41 @@ $ ./hello --help
 
 1. My site links
 
-   ![](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-links-10.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-links-10.png" style="zoom:60%;" />
 
-   ![](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-links-100.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-links-100.png" style="zoom:60%;" />
 
-   ![coriq-links-1000](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-links-1000.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-links-1000.png" alt="coriq-links-1000" style="zoom:60%;" />
 
 2. My site
 
-   ![](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-1000.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-1000.png" style="zoom:60%;" />
 
-   ![coriq-10000](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-10000.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/coriq-10000.png" alt="coriq-10000" style="zoom:60%;" />
 
 3. Cloudflare
 
-   ![](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/cloudflare-10.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/cloudflare-10.png" style="zoom:60%;" />
 
-   ![cloudflare-100](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/cloudflare-100.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/cloudflare-100.png" alt="cloudflare-100" style="zoom:60%;" />
 
-   ![cloudflare-1000](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/cloudflare-1000.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/cloudflare-1000.png" alt="cloudflare-1000" style="zoom:60%;" />
 
 4. Google
 
-   ![](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/google-10.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/google-10.png" style="zoom:60%;" />
 
-   ![google-100](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/google-100.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/google-100.png" alt="google-100" style="zoom:60%;" />
 
-   ![google-1000](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/google-1000.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/google-1000.png" alt="google-1000" style="zoom:60%;" />
 
 5. Instagram
 
-   ![](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/instagram-10.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/instagram-10.png" style="zoom:60%;" />
 
-   ![instagram-100](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/instagram-100.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/instagram-100.png" alt="instagram-100" style="zoom:60%;" />
 
-   ![instagram-1000](https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/instagram-1000.png)
+   <img src="https://raw.githubusercontent.com/coriqu/cloudflare-2020-systems-engineering-assignment/main/screenshot/instagram-1000.png" alt="instagram-1000" style="zoom:60%;" />
 
 ## Findings
 
