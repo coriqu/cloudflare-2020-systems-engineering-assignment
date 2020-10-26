@@ -19,9 +19,8 @@ $ make all
 Run program
 
 ```
-./hello --url=(the url) --profile=(the number of requests)
-//run the URL to my General Assignment
-./hello --url=https://proud-moon-53cf.coriq.workers.dev/links --profile=1000
+$ ./hello --url=(the url) --profile=(the number of requests)
+$ ./hello --url=https://proud-moon-53cf.coriq.workers.dev/links --profile=1000
 ```
 
 Use help for more details
